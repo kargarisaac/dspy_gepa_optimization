@@ -1,0 +1,9 @@
+*sqlite
+.env
+.claude
+.vscode
+dspy_program
+faiss_index
+mlartifacts
+mlruns
+.python-version
