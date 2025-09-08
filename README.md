@@ -51,7 +51,7 @@ The system automatically evaluates baseline vs optimized performance using medic
 
 ## File Structure
 
-```
+```bash
 multi-agent-system.py    # Main implementation
 docs/                    # PDF documents and Q&A datasets
 faiss_index/            # Generated vector databases
