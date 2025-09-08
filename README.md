@@ -25,9 +25,9 @@ The system implements a hierarchical multi-agent architecture:
 uv sync
 ```
 
-2. Set environment variables:
+2. Create a `.env` file in the project root:
 ```bash
-export OPENROUTER_API_KEY="your_key_here"
+OPENROUTER_API_KEY=your_key_here
 ```
 
 3. Place PDF documents in the `docs/` folder:
